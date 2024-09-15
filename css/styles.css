@@ -16,4 +16,9 @@ body{
     align-content: stretch;
 }
 
-
+section{
+    width: 45%;
+    background-color: white;
+    padding: 0;
+    border-radius: 25px;
+}
