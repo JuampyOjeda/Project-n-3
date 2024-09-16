@@ -50,3 +50,11 @@ section{
     color: #9d9ea0;
     margin-top: 1%;
 }
+
+.like{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 20%;
+    border: solid 1px hsl(240,1%,72%);
+    background-color: #fafafa;
+}
