@@ -30,6 +30,7 @@ section{
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
+    padding: 1.5rem 1rem;
 }
 
 .tittle{
@@ -57,4 +58,8 @@ section{
     border-radius: 20%;
     border: solid 1px hsl(240,1%,72%);
     background-color: #fafafa;
+}
+
+.search{
+    font-size: 1.1rem;
 }
