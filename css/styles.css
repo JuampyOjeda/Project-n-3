@@ -64,8 +64,15 @@ section{
 }
 
 /* Segundo Contenedor */
+
+.looking{
+    width: 100%;
+    height: 35%;
+}
+
 .search{
-    font-size: 1.1rem;
+    font-size: 1rem;
+    padding-top: 3%;
 }
 
 .seeking{
