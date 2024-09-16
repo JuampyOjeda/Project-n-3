@@ -35,6 +35,7 @@ section{
     padding: 1.5rem 1rem;
 }
 
+/* Primer Contenedor */
 .tittle{
     display: flex;
     flex-direction: row;
@@ -62,6 +63,7 @@ section{
     background-color: #fafafa;
 }
 
+/* Segundo Contenedor */
 .search{
     font-size: 1.1rem;
 }
@@ -69,4 +71,9 @@ section{
 .seeking{
     color: #9d9ea0;
     font-size: 0.8rem;
+}
+
+.foto-perfil{
+    width: 50px;
+    height: 50px;
 }
