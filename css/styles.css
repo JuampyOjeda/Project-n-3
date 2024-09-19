@@ -105,3 +105,16 @@ hr {
     width: 100%;
 }
 
+.amount{
+    font-size: 1.5rem;
+    margin: 5% 0;
+}
+
+.rate{
+    font-size: 0.8rem;
+    margin-top: 1%;
+}
+
+.price{
+    padding-right: 50%;
+}
