@@ -23,7 +23,7 @@ section{
     border-radius: 25px;
 }
 
-/* PRIMER SECTION (PRESENTACION) */
+/* PRIMER SECTION (PRESENTATION) */
 .presentation{
     height: 30%;
     width: 30%;
@@ -35,7 +35,7 @@ section{
     padding: 1.5rem 1rem;
 }
 
-/* Primer Contenedor (TITTLE)*/
+/* Primer Contenedor de PRESENTATION (TITTLE)*/
 .tittle{
     display: flex;
     flex-direction: row;
@@ -63,7 +63,7 @@ section{
     background-color: #fafafa;
 }
 
-/* Segundo Contenedor (LOOKING) */
+/* Segundo Contenedor de PRESENTATION (LOOKING) */
 
 .looking{
     width: 100%;
@@ -105,6 +105,7 @@ hr {
     width: 100%;
 }
 
+/* Tercer Contenedor de PRESENTATION (PRICE) */
 .amount{
     font-size: 1.5rem;
     margin: 5% 0;
@@ -119,6 +120,7 @@ hr {
     padding-right: 50%;
 }
 
+/* Button de PRESENTACION */
 .btn-apply{
     background-color: #398ef7;
     border-radius: 20px;
