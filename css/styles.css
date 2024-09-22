@@ -162,4 +162,14 @@ hr {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    color: #ffff;
+}
+
+.dropdown{
+    background-color: #444545;
+    border: solid 1.5px #9d9ea0;
+    border-radius: 7px;
+    width: 5.5rem;
+    height: 2rem;
+    color: #ffffff;
 }
