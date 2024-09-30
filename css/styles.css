@@ -208,3 +208,32 @@ hr {
 .accumulated{
     color: #ffffff;
 }
+
+.place{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.projects{
+    width: 47%;
+    background-color: #3d3e3e;
+    border-radius: 1rem;
+    margin: 5px;
+}
+
+.clients{
+    width: 47%;
+    background-color: #3d3e3e;
+    border-radius: 1rem;
+    margin: 5px;
+}
+
+.top-place{
+    width: 95%;
+    background-color: #f0f0f0;
+    border-radius: 1rem;
+    margin: 5px;
+}
